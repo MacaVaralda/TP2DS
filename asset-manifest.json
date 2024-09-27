@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TP2DS/static/css/main.62674ac3.css",
+    "main.js": "/TP2DS/static/js/main.b61e9450.js",
+    "static/js/453.ceb27270.chunk.js": "/TP2DS/static/js/453.ceb27270.chunk.js",
+    "index.html": "/TP2DS/index.html",
+    "main.62674ac3.css.map": "/TP2DS/static/css/main.62674ac3.css.map",
+    "main.b61e9450.js.map": "/TP2DS/static/js/main.b61e9450.js.map",
+    "453.ceb27270.chunk.js.map": "/TP2DS/static/js/453.ceb27270.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62674ac3.css",
+    "static/js/main.b61e9450.js"
+  ]
+}
